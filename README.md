@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @aperson2nice
-- 👀 I’m interested in Game Development, App Development, and Machine Learning and AI.
+- 👀 I’m interested in Game Development, App Development, and Machine Learning and Artificial Intelligence.
 - 🌱 I’m currently learning Game Development in Unity ...
 - 💞️ I’m looking to collaborate on anything I can contribute to! ...
 
